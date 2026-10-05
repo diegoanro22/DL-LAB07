@@ -1,0 +1,9 @@
+datasets
+gensim
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+spacy
+torch
